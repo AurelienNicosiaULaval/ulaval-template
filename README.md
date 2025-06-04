@@ -11,7 +11,7 @@ Un modèle de rapport HTML pour les travaux pratiques.
 ### 🔧 Installation
 
 ```bash
-quarto use template gh:ulaval/ulaval-template --subdir stt1100
+quarto use template AurelienNicosiaULaval/ulaval-template/stt1100
 ```
 
 ### 🎨 Caractéristiques
@@ -30,7 +30,7 @@ Un template de présentation pour les enseignants, basé sur **Reveal.js**, avec
 ### 🔧 Installation
 
 ```bash
-quarto use template gh:ulaval/ulaval-template --subdir slides
+quarto use template AurelienNicosiaULaval/ulaval-template/slides
 ```
 
 ### 🎨 Caractéristiques
