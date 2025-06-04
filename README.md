@@ -56,16 +56,15 @@ quarto preview
 
 ```
 ulaval-template/
-└── _extensions/
-    └── ulaval/
-        ├── stt1100/       # Rapport étudiant
-        │   ├── template.qmd
-        │   ├── ulaval.css
-        │   └── _extension.yml
-        └── slides/        # Notes de cours
-            ├── template.qmd
-            ├── ulaval.css
-            └── _extension.yml
+├── stt1100/       # Rapport étudiant
+│   ├── template.qmd
+│   ├── ulaval.css
+│   └── _extension.yml
+├── slides/        # Notes de cours
+│   ├── template.qmd
+│   ├── ulaval.css
+│   └── _extension.yml
+└── quarto-extension.yml
 ```
 
 ---
